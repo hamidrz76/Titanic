@@ -1,0 +1,9 @@
+pandas==1.5.3
+tensorflow==2.13.1
+tensorflow-estimator==2.13.0
+tensorflow-io-gcs-filesystem==0.34.0
+scikit-learn @ file:///croot/scikit-learn_1690978916802/work
+scikit-learn-intelex==20230426.111301
+matplotlib @ file:///croot/matplotlib-suite_1679593461707/work
+matplotlib-inline @ file:///opt/conda/conda-bld/matplotlib-inline_1662014470464/work
+numpy @ file:///croot/numpy_and_numpy_base_1682520569166/work
